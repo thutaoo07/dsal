@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\DSAL\\01-DSAL_NEW\\0405_sem2\\CA2\\CA2_Starter_ExperimentTreeView_with_MDI\\ExperimentTreeViewV2\\ExperimentTreeViewV2\\ExperimentTreeViewV2.csproj": {}
+  },
+  "projects": {
+    "D:\\DSAL\\01-DSAL_NEW\\0405_sem2\\CA2\\CA2_Starter_ExperimentTreeView_with_MDI\\ExperimentTreeViewV2\\ExperimentTreeViewV2\\ExperimentTreeViewV2.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\DSAL\\01-DSAL_NEW\\0405_sem2\\CA2\\CA2_Starter_ExperimentTreeView_with_MDI\\ExperimentTreeViewV2\\ExperimentTreeViewV2\\ExperimentTreeViewV2.csproj",
+        "projectName": "ExperimentTreeViewV2",
+        "projectPath": "D:\\DSAL\\01-DSAL_NEW\\0405_sem2\\CA2\\CA2_Starter_ExperimentTreeView_with_MDI\\ExperimentTreeViewV2\\ExperimentTreeViewV2\\ExperimentTreeViewV2.csproj",
+        "packagesPath": "C:\\Users\\user.SOC-NB-155574\\.nuget\\packages\\",
+        "outputPath": "D:\\DSAL\\01-DSAL_NEW\\0405_sem2\\CA2\\CA2_Starter_ExperimentTreeView_with_MDI\\ExperimentTreeViewV2\\ExperimentTreeViewV2\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\user.SOC-NB-155574\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
